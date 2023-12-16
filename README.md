@@ -1,4 +1,3 @@
-link of video:https://drive.google.com/file/d/1hVEKuwycZ3TBMwOCrFazY_ZSkzQCFNfa/view?usp=share_link
 
 <!DOCTYPE html>
 <html lang="en">
